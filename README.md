@@ -7,7 +7,7 @@ HARMONI (ELT), realizado durante mis prácticas extracurriculares en el
 Centro de Astrobiología (CAB, CSIC-INTA).
 
 ## Contenido
-- `*.ipynb`: segmentación de los datos en ciclos de subida/bajada,
+- `analisis_def_reorganizado.ipynb`: segmentación de los datos en ciclos de subida/bajada,
   seguimiento de velocidad, comportamiento dinámico (arranque y frenada)
   e histéresis en el punto de origen.
 
